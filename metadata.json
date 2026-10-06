@@ -1,0 +1,7 @@
+{
+  "name": "StudyMate 10",
+  "description": "MP Board Class 10 Offline AI Study Assistant with NCERT curriculum, Hindi/English/Hinglish modes, offline AI & RAG, diagrams, MCQs, and exam mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
